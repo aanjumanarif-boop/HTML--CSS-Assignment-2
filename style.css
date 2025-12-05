@@ -1,0 +1,44 @@
+.container{
+    
+    width: 40%;
+    height: 45%;
+    border-radius: 8px;
+    margin-left: 30%;
+    margin-top: 120px;
+    box-sizing: border-box;
+    background-color: rgb(100, 239, 158);
+    border: 3px solid rgb(218, 149, 218);
+    
+}
+  h1{
+  color: rgb(12, 55, 135);
+  padding-left: 33%;
+  margin-top: 50px;
+}
+  .input-element{
+   width: 90%; 
+   padding: 10px;
+   margin-left: 14px;
+   border: none;
+   border-radius: 5px;
+  }
+  .input-element-02{
+   width: 90%; 
+   padding: 10px;
+   margin-left: 14px;
+   border: none;
+   border-radius: 5px;
+   margin-top: 12px;
+
+  }
+  .btn{
+    width: 120px;
+    height: 30px;
+   margin-left: 40%;
+   margin-top: 12px;
+   font-size: large;
+   background-color: rgb(208, 68, 138);
+   border: none;
+   border-radius: 5px;
+   color: beige;
+  }
